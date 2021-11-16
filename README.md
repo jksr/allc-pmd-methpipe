@@ -12,3 +12,9 @@ and *bin/pmd* will be the executable after compiling.
 
 
 For more details of *pmd* or MethPipe please see [https://github.com/smithlabcode/methpipe](https://github.com/smithlabcode/methpipe)
+
+
+
+Liscence:
+-------
+GNU v3 as MethPipe is liscenced.
