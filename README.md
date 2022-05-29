@@ -8,5 +8,13 @@ To compile, run
 
 and *bin/pmd* will be the executable after compiling.
 
+*c++11* supporting and *zlib* and *gsl* libraries are required for compiling.
+
 
 For more details of *pmd* or MethPipe please see [https://github.com/smithlabcode/methpipe](https://github.com/smithlabcode/methpipe)
+
+
+
+Liscence:
+-------
+GNU v3 as MethPipe is liscenced.
