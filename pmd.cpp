@@ -929,9 +929,9 @@ load_wgbs_data(const size_t bin_size,
     // no range, or no chrom
     if (curr_chrom != chrom) {
       if (!curr_chrom.empty()) {
-        if (chrom < curr_chrom)
-          throw std::runtime_error("CpGs not sorted in file \""
-                                   + cpgs_file + "\"");
+//        if (chrom < curr_chrom)
+//          throw std::runtime_error("CpGs not sorted in file \""
+//                                   + cpgs_file +" "+chrom+" "+curr_chrom+" "+ "\"");
         intervals.push_back(SimpleGenomicRegion(curr_chrom, curr_pos,
                                                 prev_pos + 1));
         reads.push_back(n_meth_bin + n_unmeth_bin);
