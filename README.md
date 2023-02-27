@@ -1,6 +1,6 @@
 # MethPipe PMD detection program adapted for ALLC file format
 
-This is a modified verion of *pmd* program in MethPipe pipeline, which works directly on ALLC files.
+This is a modified verion of *pmd* program in MethPipe pipeline, which works directly on [ALLC files](https://github.com/yupenghe/methylpy#output-format).
 
 
 To compile, run
